@@ -4,10 +4,10 @@
       "description": "the private key you downloaded when creating the GitHub Integration"
     },
     "INTEGRATION_ID": {
-      "description": "the ID of your GitHub Integration"
+      "description": "8470"
     },
     "WEBHOOK_SECRET": {
-      "description": "the secret configured for your GitHub Integration"
+      "description": "secret"
     }
   }
 }
